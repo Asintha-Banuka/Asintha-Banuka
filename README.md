@@ -4,20 +4,13 @@
 
 ### 👋 Hello, I'm Asintha-Banuka!
 
-I'm a passionate [Your Field, e.g., web developer, data scientist, student] who loves to build things and learn new technologies.
+I'm a passionate Web developer who loves to build things and learn new technologies.
 
 ---
 
-### 🔭 I'm currently working on...
-- [Project Name 1] - A brief description.
-- [Project Name 2] - A brief description.
-
 ### 🌱 I'm currently learning...
-- [Technology/Skill 1]
+- Figma.
 - [Technology/Skill 2]
-
-### 🤝 I'm looking to collaborate on...
-- Projects related to [Your Interests, e.g., open-source software, machine learning, mobile apps].
 
 ### 📫 How to reach me...
 - My personal website: [Your Website URL]
