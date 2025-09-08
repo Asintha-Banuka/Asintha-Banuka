@@ -9,13 +9,15 @@ I'm a passionate Web developer who loves to build things and learn new technolog
 ---
 
 ### 🌱 I'm currently learning...
-- Figma.
-- [Technology/Skill 2]
+- Programming Skills(C,C++,Java,Python,C#,Javascript,PHP,Ruby,Kotlin)
+- Version Control Systems(Git,GitHub,GitLab,Bitbucket)
+- Web Development(HTML,CSS,Javascript,React,Angular)
+- Databases(MySQL,Oracle,Firebase)
 
 ### 📫 How to reach me...
-- My personal website: [Your Website URL]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- My personal website: https://github.com/Asintha-Banuka/portfolio.git
+- LinkedIn: https://www.linkedin.com/in/asintha-banuka-778a1437a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: asinthawanasinha653@gmail.com
 
 ---
 
